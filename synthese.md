@@ -141,7 +141,7 @@ Il est intéressant de créer des sous ensembles à partir des modalités prises
 
 - Relation ratio/malade: hypothèse: il semble que les moyennes de 'ratio' chez les indivudus malades et non malades soient différentes
 
-<h3>Test satistiques</h3>
+<h3>Test statistiques</h3>
 
 - Relation EDUC/malade: Les niveaux d’instructions sont significativement différents chez les patients souffrant de démence et ceux ne souffrant pas de démence, au seuil de risque de 5%.
 
